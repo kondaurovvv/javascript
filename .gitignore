@@ -1,0 +1,22 @@
+# Директория зависимостей
+node_modules/
+
+# Логи и отладочные файлы
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Тестовые отчёты и покрытие
+coverage/
+.nyc_output/
+.history/
+
+# IDE и редакторы
+.vscode/
+.idea/ 
+*.swp
+*.swo
+*~
+.DS_Store
