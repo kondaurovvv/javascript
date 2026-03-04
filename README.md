@@ -41,6 +41,7 @@
 Объекты: основы
 
 - [Объекты](https://learn.javascript.ru/object)
+- [Копирование объектов и ссылки](https://learn.javascript.ru/object-copy)
 
 ## Философия Agile.
 

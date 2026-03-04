@@ -35,9 +35,9 @@ const addBook = function (title, author, year, isRead) {
 
 /**
  * Удаляет книгу по ID.
- * 
+ *
  * @param {string} idBook - ID книги для удаления.
- * 
+ *
  * @returns {string} - Возвращает строку с информацией об удалений.
  */
 const removeBook = (idBook) => {
@@ -176,8 +176,8 @@ function runLibrary() {
         break
       case 5:
         // 5 - Показать статистику.
-        console.log('Текущая статистика:', library.stats);
-        
+        console.log('Текущая статистика:', library.stats)
+
         if (library.stats.totalBooks === 0) {
           alert('В Библиотеке нет книг! Статистика прочитанных книг - 0%')
         }
@@ -270,9 +270,9 @@ function checkingForNullAndUndefined(potentialNullOrUndefined) {
 
 /**
  * Ищет книги в объекте `library`.
- * 
+ *
  * @param {string} searchString - Запрос пользователя.
- * 
+ *
  * @returns {object} responseToClient - Возвращает объект со списком найденного.
  */
 function findBooks(searchString) {
@@ -280,7 +280,7 @@ function findBooks(searchString) {
 
   for (let key in library.books) {
     for (let prop in library.books[key]) {
-      if (typeof library.books[key][prop] !== 'string' ) {
+      if (typeof library.books[key][prop] !== 'string') {
         continue
       }
 
@@ -300,9 +300,9 @@ function findBooks(searchString) {
 
 /**
  * Проверяет, что объект пустой.
- * 
- * @param {object} obj - Объект для проверки 
- * 
+ *
+ * @param {object} obj - Объект для проверки
+ *
  * @returns {boolean} - Если объект пустой возвращает `false`, иначе `true`.
  */
 function isNotEmptyObject(obj) {

@@ -39,6 +39,7 @@ Function Expression https://learn.javascript.ru/function-expressions
 
 Объекты: основы
 Объекты https://learn.javascript.ru/object
+Копирование объектов и ссылки https://learn.javascript.ru/object-copy
 
 Теперь я буду скидывать тебе новую тему по JavaScript с этого сайта (https://learn.javascript.ru/),
 которую я прошёл, а ты мне давай короткий конспект с самым главным по теме и шпаргалку,
@@ -82,6 +83,7 @@ Function Expression https://learn.javascript.ru/function-expressions
 
 Объекты: основы
 Объекты https://learn.javascript.ru/object
+Копирование объектов и ссылки https://learn.javascript.ru/object-copy
 
 Пожалуйста, убедись, что в решении нужно применить все пройденные темы и новую тему которую я прохожу.
 Увеличивай уровень сложности задач постепенно от простого к сложному.
