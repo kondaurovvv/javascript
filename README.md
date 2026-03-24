@@ -42,6 +42,8 @@
 
 - [Объекты](https://learn.javascript.ru/object)
 - [Копирование объектов и ссылки](https://learn.javascript.ru/object-copy)
+- [Сборка мусора](https://learn.javascript.ru/garbage-collection)
+- [Методы объекта, "this"](https://learn.javascript.ru/object-methods)
 
 ## Философия Agile.
 
