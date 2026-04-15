@@ -45,6 +45,24 @@
 - [Сборка мусора](https://learn.javascript.ru/garbage-collection)
 - [Методы объекта, "this"](https://learn.javascript.ru/object-methods)
 - [Конструктор, оператор "new"](https://learn.javascript.ru/constructor-new)
+- [Опциональная цепочка '?.'](https://learn.javascript.ru/optional-chaining)
+- [Тип данных Symbol](https://learn.javascript.ru/symbol)
+- [Преобразование объектов в примитивы](https://learn.javascript.ru/object-toprimitive)
+
+Типы данных:
+
+- [Методы примитивов](https://learn.javascript.ru/primitives-methods)
+- [Числа](https://learn.javascript.ru/number)
+- [Строки](https://learn.javascript.ru/string)
+- [Массивы](https://learn.javascript.ru/array)
+- [Методы массивов](https://learn.javascript.ru/array-methods)
+- [Перебираемые объекты](https://learn.javascript.ru/iterable)
+- [Map и Set](https://learn.javascript.ru/map-set)
+- [WeakMap и WeakSet](https://learn.javascript.ru/weakmap-weakset)
+- [Object.keys, values, entries](https://learn.javascript.ru/keys-values-entries)
+- [Деструктурирующее присваивание](https://learn.javascript.ru/destructuring-assignment)
+- [Дата и время](https://learn.javascript.ru/date)
+- [Формат JSON, метод toJSON](https://learn.javascript.ru/json)
 
 ## Философия Agile.
 
